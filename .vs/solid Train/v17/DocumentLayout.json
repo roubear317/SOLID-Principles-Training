@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\train solidprincipales\\solid Train\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|D:\\train solidprincipales\\solid Train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|d:\\train solidprincipales\\solid train\\methods\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|solutionrelative:methods\\withdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|d:\\train solidprincipales\\solid train\\module\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|solutionrelative:module\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|d:\\train solidprincipales\\solid train\\methods\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|solutionrelative:methods\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|d:\\train solidprincipales\\solid train\\methods\\emailclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|solutionrelative:methods\\emailclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|d:\\train solidprincipales\\solid train\\methods\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F3291F-415D-49EE-A445-ABD9FD9A40D3}|solid Train.csproj|solutionrelative:methods\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Withdraw.cs",
+              "DocumentMoniker": "D:\\train solidprincipales\\solid Train\\Methods\\Withdraw.cs",
+              "RelativeDocumentMoniker": "Methods\\Withdraw.cs",
+              "ToolTip": "D:\\train solidprincipales\\solid Train\\Methods\\Withdraw.cs",
+              "RelativeToolTip": "Methods\\Withdraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:38:18.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "D:\\train solidprincipales\\solid Train\\Methods\\Deposit.cs",
+              "RelativeDocumentMoniker": "Methods\\Deposit.cs",
+              "ToolTip": "D:\\train solidprincipales\\solid Train\\Methods\\Deposit.cs",
+              "RelativeToolTip": "Methods\\Deposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:38:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "D:\\train solidprincipales\\solid Train\\Methods\\AccountServices.cs",
+              "RelativeDocumentMoniker": "Methods\\AccountServices.cs",
+              "ToolTip": "D:\\train solidprincipales\\solid Train\\Methods\\AccountServices.cs",
+              "RelativeToolTip": "Methods\\AccountServices.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBUAAADuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:58:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailClient.cs",
+              "DocumentMoniker": "D:\\train solidprincipales\\solid Train\\Methods\\EmailClient.cs",
+              "RelativeDocumentMoniker": "Methods\\EmailClient.cs",
+              "ToolTip": "D:\\train solidprincipales\\solid Train\\Methods\\EmailClient.cs",
+              "RelativeToolTip": "Methods\\EmailClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T19:02:58.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\train solidprincipales\\solid Train\\Module\\Account.cs",
+              "RelativeDocumentMoniker": "Module\\Account.cs",
+              "ToolTip": "D:\\train solidprincipales\\solid Train\\Module\\Account.cs",
+              "RelativeToolTip": "Module\\Account.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:26:05.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\train solidprincipales\\solid Train\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\train solidprincipales\\solid Train\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T01:05:12.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
